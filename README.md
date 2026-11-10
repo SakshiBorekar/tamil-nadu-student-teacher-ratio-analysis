@@ -4,6 +4,8 @@ A village-level regression analysis in R of factors associated with the primary 
 
 **Team:** Sakshi Borekar, Manish, Tanvi, Vineetha
 
+**My role:** I wrote the analysis code in R. The data was gathered by other team members; I prepared it for analysis, built the district-level and state-level regression models, and ran the bootstrap confidence intervals.
+
 ## Question
 Which health, education and amenity factors are associated with the student-teacher ratio in Tamil Nadu villages, and do districts differ after controlling for them?
 
