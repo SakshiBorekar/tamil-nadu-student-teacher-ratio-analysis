@@ -2,9 +2,9 @@
 
 A village-level regression analysis in R of factors associated with the primary student-teacher ratio (STR) in Tamil Nadu.
 
-**Team:** Sakshi Borekar, Manish, Tanvi, Vineetha
+**Group project by:** Sakshi Borekar, Manish, Tanvi and Vineetha (Azim Premji University). The report is co-authored by all four of us.
 
-**My role:** I wrote the analysis code in R. The data was gathered by other team members; I prepared it for analysis, built the district-level and state-level regression models, and ran the bootstrap confidence intervals.
+**My contribution:** I wrote the analysis code in R. The data was gathered by other team members; I prepared it for analysis, built the district-level and state-level regression models, and ran the bootstrap confidence intervals.
 
 ## Question
 Which health, education and amenity factors are associated with the student-teacher ratio in Tamil Nadu villages, and do districts differ after controlling for them?
